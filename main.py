@@ -7,7 +7,7 @@ import os
 import json
 import time
 
-@register("astrbot_plugin_crypto_asset", "Developer", "一个用于查询虚拟币资产价格及监控钱包转账的 AstrBot 插件", "1.2.0", "https://github.com/AstrBotDevs/astrbot_plugin_crypto_asset")
+@register("astrbot_plugin_crypto_asset", "Arturia169", "astrbot_plugin_crypto_asset 是一个功能强大的 AstrBot 插件，专为加密货币用户设计。它不仅支持实时查询全网虚拟币价格，还具备多链钱包地址转账监控功能，让您随时随地掌握链上动态。", "1.2.0", "https://github.com/Arturia169/astrbot_plugin_crypto_asset")
 class CryptoPlugin(Star):
     def __init__(self, context: Context, config: dict = None):
         super().__init__(context)
