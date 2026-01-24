@@ -1,0 +1,6 @@
+name: astrbot_plugin_crypto_asset
+version: 1.2.0
+description: 一个用于查询虚拟币资产价格及监控钱包转账的 AstrBot 插件
+author: Developer
+repo: https://github.com/AstrBotDevs/astrbot_plugin_crypto_asset
+display_name: 虚拟币资产查询

@@ -1,0 +1,32 @@
+{
+    "etherscan_api_key": {
+        "type": "string",
+        "description": "Etherscan API Key (用于 ETH 主网，不使用可留空)",
+        "default": ""
+    },
+    "arbiscan_api_key": {
+        "type": "string",
+        "description": "Arbiscan API Key (用于 Arbitrum，不使用可留空)",
+        "default": ""
+    },
+    "optimism_api_key": {
+        "type": "string",
+        "description": "Optimism Etherscan API Key (用于 Optimism，不使用可留空)",
+        "default": ""
+    },
+    "basescan_api_key": {
+        "type": "string",
+        "description": "Basescan API Key (用于 Base，不使用可留空)",
+        "default": ""
+    },
+    "trongrid_api_key": {
+        "type": "string", 
+        "description": "TronGrid API Key (用于 Tron 网络，不使用可留空)",
+        "default": ""
+    },
+    "check_interval": {
+        "type": "integer",
+        "description": "监控检查间隔 (秒)",
+        "default": 60
+    }
+}
