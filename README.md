@@ -32,7 +32,7 @@
 1. 进入 AstrBot 的插件目录 `data/plugins`。
 2. 克隆本仓库：
    ```bash
-   git clone https://github.com/AstrBotDevs/astrbot_plugin_crypto_asset.git
+   git clone https://github.com/Arturia169/astrbot_plugin_crypto_asset.git
    ```
 3. 安装依赖：
    ```bash
