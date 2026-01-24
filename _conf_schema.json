@@ -25,7 +25,7 @@
         "default": ""
     },
     "check_interval": {
-        "type": "integer",
+        "type": "int",
         "description": "监控检查间隔 (秒)",
         "default": 60
     }
